@@ -7,3 +7,9 @@ This repository contains git and github
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
+
+*italic*
+
+**bold**
+
+***italic and bold***
