@@ -23,6 +23,6 @@ This repository contains git and github
   * Apples
   * Bananas
 1. Vegetables
-  1. Tomatoes
-  2. Carrots
-  3. Onions
+   1. Tomatoes
+   2. Carrots
+   3. Onions
