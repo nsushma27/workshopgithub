@@ -16,7 +16,7 @@ This repository contains git and github
 
 [google](https://www.google.com/)
 
-![BTS](https://www.gannett-cdn.com/presto/2021/05/21/USAT/617487f8-9e45-414a-9178-c8c01cf36e19-__Butter___2.jpg)
+![BTS](https://pbs.twimg.com/profile_images/1461484552841486341/FKFmxv6R_400x400.jpg)
 
 * Fruits 
   * Mangoes
