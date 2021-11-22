@@ -22,3 +22,7 @@ This repository contains git and github
   * Mangoes
   * Apples
   * Bananas
+1. Vegetables
+  1. Tomatoes
+  2. Carrots
+  3. Onions
